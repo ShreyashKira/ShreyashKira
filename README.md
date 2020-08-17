@@ -10,7 +10,7 @@
 <br/>
 
 
-Here are some ideas to get you started:
+### Information
 
 - 🔭 I’m currently working on [**discord projects**](https://github.com/users/ShreyashKira/projects/2).
 - 🌱 I’m currently learning **web development**.
