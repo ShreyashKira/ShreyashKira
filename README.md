@@ -20,5 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashKira&layout=compact)](https://github.com/ShreyashKira)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyashKira&repo=parse-ms)](https://github.com/ShreyashKira/parse-ms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyashKira&repo=captcha-canvas)](https://github.com/ShreyashKira/captcha-canvas)
+
 ### Credits
 All credits for the profile goes to [anuraghazra](https://github.com/anuraghazra) and his repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
